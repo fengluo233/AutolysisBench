@@ -1,4 +1,4 @@
-# Through the Schrödinger Bridge
+# AutolysisBench
 
 This is the official repository for our MICCAI 2026 Early Accept paper:
 
