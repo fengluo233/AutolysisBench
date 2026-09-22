@@ -1,0 +1,6 @@
+--extra-index-url https://download.pytorch.org/whl/cu111
+torch==1.9.0+cu111
+torchvision==0.10.0+cu111
+numpy==1.24.4
+Pillow==10.4.0
+packaging==25.0

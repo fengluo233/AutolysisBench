@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+*.pth
+*.pt
+*.ckpt
+*.svs
+*.ndpi
+datasets/
+checkpoints/
+results/
+outputs/
+test-artifacts/
+*.egg-info/
