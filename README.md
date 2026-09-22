@@ -4,6 +4,13 @@ This is the official repository for our MICCAI 2026 Early Accept paper:
 
 **Through the Schrödinger Bridge: Benchmarking Antemortem Image Restoration from Postmortem Autolysis to Enhance Forensic Diagnostics**
 
+Shuang Hao<sup>1,4</sup>, Jiacheng Yue<sup>2</sup>, Yaxuan Zhao<sup>3,4</sup>, Fan Wang<sup>1,4</sup>, Jianhua Ma<sup>1,4</sup>, Erwen Huang<sup>2,*</sup>, Chunfeng Lian<sup>3,4,*</sup>
+
+<sup>1</sup> School of Life Science and Technology, Xi'an Jiaotong University<br>
+<sup>2</sup> Faculty of Forensic Medicine, Sun Yat-Sen University<br>
+<sup>3</sup> School of Mathematics and Statistics, Xi'an Jiaotong University<br>
+<sup>4</sup> IMED, Xi'an Jiaotong University
+
 English · [中文说明](docs/README.zh-CN.md) · [Model details](docs/MODEL.md)
 
 ## Release scope
@@ -102,12 +109,12 @@ Code and released model weights use the [MIT License](LICENSE). Original copyrig
 
 ## Citation
 
-The author field remains a placeholder until the final citation is supplied.
+Please cite the paper when using this work. [Download BibTeX](CITATION.bib).
 
 ```bibtex
 @inproceedings{autolysis_schrodinger_bridge_2026,
   title     = {Through the Schrödinger Bridge: Benchmarking Antemortem Image Restoration from Postmortem Autolysis to Enhance Forensic Diagnostics},
-  author    = {TBD},
+  author    = {Hao, Shuang and Yue, Jiacheng and Zhao, Yaxuan and Wang, Fan and Ma, Jianhua and Huang, Erwen and Lian, Chunfeng},
   booktitle = {International Conference on Medical Image Computing and Computer-Assisted Intervention},
   year      = {2026},
   note      = {Early Accept}

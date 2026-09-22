@@ -2,6 +2,12 @@
 
 本次发布包含肝脏模型的非配对训练、patch 推理及预训练生成器权重。输出为模型生成的未自溶样形态，不是同位置真实未自溶组织的观测值。
 
+## 论文信息
+
+**Through the Schrödinger Bridge: Benchmarking Antemortem Image Restoration from Postmortem Autolysis to Enhance Forensic Diagnostics**（MICCAI 2026）
+
+作者按海报顺序：Shuang Hao、Jiacheng Yue、Yaxuan Zhao、Fan Wang、Jianhua Ma、Erwen Huang、Chunfeng Lian。作者单位及标记见[英文首页](../README.md)，引用条目见 [CITATION.bib](../CITATION.bib)。
+
 ## 安装与推理
 
 已验证环境为 Linux、Python 3.8、PyTorch 1.9.0/CUDA 11.1 和 NVIDIA GPU。按照[英文首页](../README.md#installation)安装依赖。从 [v1.0.0 Release](https://github.com/fengluo233/AutolysisBench/releases/tag/v1.0.0) 下载权重和 `SHA256SUMS`，放入 `checkpoints/` 并核对校验值。
