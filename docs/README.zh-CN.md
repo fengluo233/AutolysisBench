@@ -2,7 +2,10 @@
 
 # AutolysisBench：肝脏自溶恢复
 
-**MICCAI 2026 · 非配对病理图像恢复 · AutoPath 肝脏数据**
+**MICCAI 2026 · Early Accept · Top 9%**
+
+大会共收到 **4,601 篇投稿**，本论文属于**提前录用的前 9%**。<br>
+<sub>依据 MICCAI 2026 程序委员会主席于 2026 年 5 月 7 日发出的录用通知；9% 为提前录用阶段的比例。</sub>
 
 [论文](https://papers.miccai.org/miccai-2026/1057-Paper0259.html) · [arXiv](https://arxiv.org/abs/2608.21813) · [数据集](https://huggingface.co/datasets/fengluo/AutolysisBench) · [模型权重](https://github.com/fengluo233/AutolysisBench/releases/tag/v1.0.0) · [English](../README.md)
 
@@ -12,7 +15,7 @@
 
 ## 论文信息
 
-**Through the Schrödinger Bridge: Benchmarking Antemortem Image Restoration from Postmortem Autolysis to Enhance Forensic Diagnostics**（MICCAI 2026）
+**Through the Schrödinger Bridge: Benchmarking Antemortem Image Restoration from Postmortem Autolysis to Enhance Forensic Diagnostics**（MICCAI 2026，Early Accept）
 
 作者按海报顺序：Shuang Hao、Jiacheng Yue、Yaxuan Zhao、Fan Wang、Jianhua Ma、Erwen Huang、Chunfeng Lian。作者单位及标记见[英文首页](../README.md)，引用条目见 [CITATION.bib](../CITATION.bib)。
 

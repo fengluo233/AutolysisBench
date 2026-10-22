@@ -4,7 +4,10 @@
 
 ### Through the Schrödinger Bridge:<br>Benchmarking Antemortem Image Restoration from Postmortem Autolysis<br>to Enhance Forensic Diagnostics
 
-**MICCAI 2026**
+**MICCAI 2026 · Early Accept**
+
+**Top 9% of 4,601 submissions** in the early-acceptance round.<br>
+<sub>Early-acceptance statistics reported by the MICCAI 2026 Program Chairs in the May 7, 2026 notification.</sub>
 
 Shuang Hao<sup>1,4</sup> · Jiacheng Yue<sup>2</sup> · Yaxuan Zhao<sup>3,4</sup> · Fan Wang<sup>1,4</sup><br>
 Jianhua Ma<sup>1,4</sup> · Erwen Huang<sup>2,✉</sup> · Chunfeng Lian<sup>3,4,✉</sup>
@@ -14,6 +17,7 @@ Jianhua Ma<sup>1,4</sup> · Erwen Huang<sup>2,✉</sup> · Chunfeng Lian<sup>3,4
 <sup>3</sup> School of Mathematics and Statistics, Xi'an Jiaotong University<br>
 <sup>4</sup> Research Center for Intelligent Medical Equipment and Devices (IMED), Xi'an Jiaotong University
 
+[![Early Accept](https://img.shields.io/badge/Early_Accept-Top_9%25-D4A017?style=flat-square)](https://papers.miccai.org/miccai-2026/1057-Paper0259.html)
 [![Paper](https://img.shields.io/badge/MICCAI_2026-Paper-315C93?style=flat-square)](https://papers.miccai.org/miccai-2026/1057-Paper0259.html)
 [![arXiv](https://img.shields.io/badge/arXiv-2608.21813-B31B1B?style=flat-square)](https://arxiv.org/abs/2608.21813)
 [![Dataset](https://img.shields.io/badge/Hugging_Face-Dataset-D9A441?style=flat-square)](https://huggingface.co/datasets/fengluo/AutolysisBench)
